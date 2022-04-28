@@ -1,9 +1,9 @@
-### Olá!! Sou Patrícia e sejam bem-vindos ao meu repositório Git. 👋
+<h3> Olá!! Sou Patrícia e sejam bem-vindos ao meu repositório Git.</h3> 👋
 
 
 😍Cursando Faculdade de Análise e Desenvolvimento de Sistemas.
 
-<h2> 🛸Contatos:</h2>
+<h4> 🛸Contatos:</h4>
 
 <div> 
   <a href = "mailto:barbosapat4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
