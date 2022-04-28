@@ -1,4 +1,4 @@
-<h3> Olá!! Sou Patrícia e sejam bem-vindos ao meu repositório Git.</h3> 👋
+<h3> Olá!! Sou Patrícia e sejam bem-vindos ao meu repositório Git.👋</h3>
 
 
 😍Cursando Faculdade de Análise e Desenvolvimento de Sistemas.
