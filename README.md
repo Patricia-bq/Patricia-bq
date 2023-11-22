@@ -1,4 +1,4 @@
-<h3> 👋 Olá!! Sou Patrícia e sejam bem-vindos ao meu repositório Git.</h3>
+<h3> 👋 Hey!! I'm Patrícia, welcom to my github repository.</h3>
 
  Cursando Engenharia de Software.
 
