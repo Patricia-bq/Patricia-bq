@@ -1,6 +1,6 @@
 <h3> 👋 Hey!! I'm Patrícia, welcom to my github repository.</h3>
 
- Cursando Engenharia de Software.
+ Software engineering student.
 
 <h4> 🛸 Contatos:</h4>
 
